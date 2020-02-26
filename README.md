@@ -1,3 +1,7 @@
+npm install react-router-dom @auth0/auth0-spa-js
+
+npm install react-bootstrap bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
